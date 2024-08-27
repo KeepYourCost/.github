@@ -1,7 +1,8 @@
 <div align="center">
-<h3>멀티 클라우드 스팟 인스턴스 통합 관리 플랫폼, "Keep Your Cost"</h3>
+<h2>멀티 클라우드 스팟 인스턴스 통합 관리 플랫폼, "Keep Your Cost"</h2>
+<img alt="image" width="100%" src="https://github.com/KeepYourCost/.github/blob/main/assets/kyc-logo.png?raw=true"/>
 
-![enter image description here](https://github.com/KeepYourCost/.github/blob/main/assets/kyc-logo.png?raw=true)
+
 </div>
 
 ## 🫴🏻 Project Introduction
@@ -154,5 +155,5 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 ---
 <div align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KeepYourCost"/>    
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?url=https://github.com/KeepYourCost">
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg?url=https://github.com/KeepYourCost/.github/blob/main/LICENSE">
 </div>
