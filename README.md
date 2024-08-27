@@ -1,5 +1,7 @@
 <div align="center">
 <h3>멀티 클라우드 스팟 인스턴스 통합 관리 플랫폼, "Keep Your Cost"</h3>
+
+![enter image description here](https://github.com/KeepYourCost/.github/blob/main/assets/kyc-logo.png?raw=true)
 </div>
 
 ## 🫴🏻 Project Introduction
