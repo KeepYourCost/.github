@@ -155,6 +155,10 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 
 ---
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KeepYourCost" url="https://github.com/KeepYourCost"/>    
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?" url="https://github.com/KeepYourCost/.github/blob/main/LICENSE">
+    <a href="https://github.com/KeepYourCost">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KeepYourCost" alt="Hits Badge"/>
+    </a>
+    <a href="https://github.com/KeepYourCost/.github/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?" alt="License Badge"/>
+    </a>
 </div>
