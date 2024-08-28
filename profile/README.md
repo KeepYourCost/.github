@@ -40,7 +40,7 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 | <img width="130px" src="https://avatars.githubusercontent.com/u/22852287?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/76484900?v=4"/> |  <img width="130px" src="https://avatars.githubusercontent.com/u/102293576?v=4" /> |  
 | 강은솔 | 반영환 | 김정래 |
 |세종대학교|서울과학기술대학교|세종대학교|
-|각자 기입|ITM전공 4학년|각자 기입|
+|소프트웨어학과 4학년|ITM전공 4학년|각자 기입|
 |  [@eunsolkang](https://github.com/eunsolkang)  | [@lopahn2](https://github.com/lopahn2) |  [@Jeong-Rae](https://github.com/Jeong-Rae)   | 
 
 </div>
