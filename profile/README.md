@@ -1,4 +1,3 @@
-
 <div align="center">
 <h2>멀티 클라우드 스팟 인스턴스 통합 관리 플랫폼, "Keep Your Cost"</h2>
 <img alt="image" width="100%" src="https://github.com/KeepYourCost/.github/blob/main/assets/kyc-logo.png?raw=true"/>
@@ -40,7 +39,7 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 | <img width="130px" src="https://avatars.githubusercontent.com/u/22852287?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/76484900?v=4"/> |  <img width="130px" src="https://avatars.githubusercontent.com/u/102293576?v=4" /> |  
 | 강은솔 | 반영환 | 김정래 |
 |세종대학교|서울과학기술대학교|세종대학교|
-|소프트웨어학과 4학년|ITM전공 4학년|각자 기입|
+|소프트웨어학과 4학년|ITM전공 4학년|컴퓨터공학 4학년|
 |  [@eunsolkang](https://github.com/eunsolkang)  | [@lopahn2](https://github.com/lopahn2) |  [@Jeong-Rae](https://github.com/Jeong-Rae)   | 
 
 </div>
@@ -143,10 +142,13 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 ## 🧾 KYC Architecture
 ### 🧾 System Architecture
 <div align="center">
-<img alt="image" width="1000" src="https://github.com/MotuS-Web/.github/assets/80760160/3107fe94-7fe3-4f0f-b299-a8fb83c656e"/></div>
 
+<img width="720" alt="KYC_System_Architecture" src="https://github.com/user-attachments/assets/8caad386-7ae8-4056-b6de-395856c3da69">
+<img width="720" alt="KYC_Application_Architecture" src="https://github.com/user-attachments/assets/0ff66108-c600-47d6-bcdd-8204dc61dc27">
 
 ### 🧾 Fuction Architecture
+<img width="720" alt="KYC_Sequence_Diagram_1" src="https://github.com/user-attachments/assets/0333175f-d81d-4915-9d48-43d75d29213b">
+<img width="720" alt="KYC_Sequence_Diagram_2" src="https://github.com/user-attachments/assets/c9342e4d-5bee-4175-a0ed-134364b4e526">
 
 ## Future Plan
 현재의 데모 버전은 AWS CSP 단일 제공자로 운영되고 있습니다. 그러나 향후 AWS뿐만 아니라 Microsoft Azure, Google Cloud Platform(GCP) 등 다양한 클라우드 서비스 제공자들을 지원하기 위한 Terraform 코드를 추가함으로써 CSP에 종속되지 않는 통합 VM 관리 플랫폼으로 발전할 수 있을 것입니다. 이러한 접근은 플랫폼의 유연성을 높이고, 다양한 클라우드 환경에서의 관리 기능을 강화하는 데 기여할 것입니다.
