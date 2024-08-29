@@ -44,10 +44,9 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 
 </div>
 
-
-
 ## 📹 KYC 전체 시스템 사용 영상
-![영상 여기 넣으면 됨](영상링크)
+
+[![Screenshot 2024-08-29 at 6 32 47 PM](https://github.com/user-attachments/assets/727867c3-e1cd-41f2-b75e-5c570aa1a706)](https://www.youtube.com/watch?v=ymfQopGpaKo)
   
 ## 1️⃣ **사용자 CSP Credential 등록**
 
@@ -56,8 +55,7 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 - 사용자가 사용할 Access Key와 Secret Key를 로컬 환경 플랫폼에 등록합니다.
   
 
-![키 등록 영상 넣으면 될 듯](https://github.com/MotuS-Web/.github/assets/53892427/a85bef24-d6f6-4637-b93e-3b6aff5bd09)
-
+![My Movie 3](https://github.com/user-attachments/assets/ac3771ed-b9cf-41f5-9fda-90c2a79ffb14)
 
 ## 2️⃣ **스팟 인스턴스 배포**
 
@@ -65,16 +63,14 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 - 사용자가 원하는 Region, Instance Spec, Instance Count ... 을 작성 후 배포 요청
 - Event 창에서 Terraform을 통해 배포되는 Log 실시간 스트리밍으로 확인 가능
 
-![배포 영상](https://github.com/MotuS-Web/.github/assets/53892427/3e3139bc-f428-4cc-9afb-70fa957ffb4b)
+![My Movie 1](https://github.com/user-attachments/assets/74fb714c-cc7f-4743-8f83-04dc7ee4dd40)
 
 
 ## 3️⃣ **스팟 인스턴스 조회**
 
 ### 스팟 인스턴스 상태 확인
 - KYC Dashboard에서 스팟 인스턴스들의 상태와 상세 스펙 확인 가능
-
-
-![영상 넣기](https://github.com/MotuS-Web/.github/assets/53892427/326c7c74-0a24-451-a850-22e1f99e0ae0)
+![My Movie 1 (1)](https://github.com/user-attachments/assets/d57c9f01-f11d-4f07-b76f-ffbd5d231cb7)
 
 ## 4️⃣ **스팟 인스턴스 종료 이벤트 처리**
 ### 종료 이벤트 강제 발생
@@ -84,8 +80,8 @@ AI 분야 뿐만 아니라, 다양한 데이터 처리 및 비용 효율적인 �
 ### 데이터 자동 백업
 - 삭제 이벤트가 발생된 인스턴스에서 실행되는 Stream Agent로 기존 처리중이던 파일들을 Kafka 메시지 토픽에 프로듀싱
 - 새로운 스팟 인스턴스가 배포되면, Stream Agent에서 자신의 Spot Instance Id를 통해 자신의 파일을 컨슈밍해 백업 진행
+![My Movie 1 (3)](https://github.com/user-attachments/assets/081b8c29-2ac8-49c5-a2f1-9206d0abb304)
 
-![영상](https://github.com/MotuS-Web/.github/assets/53892427/aa9d421a-a660-4ec0-aad7-ee773e559ca)
 
 ## 🔧 Tech Stack
 ### 🖥 User Interface
